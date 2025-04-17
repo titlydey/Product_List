@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "🪑LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/1.png",
+        "description": "Sleek, sculptural, and effortlessly stylish — the Lounge Chair is where comfort meets craftsmanship. Designed with a minimalist profile and gentle contours, it offers an inviting seat that complements both modern and classic interiors."
+    },
+    {
+        "id": 2,
+        "name": "✨VEGA CHAIR",
+        "price": 250.86,
+        "image": "img/2.png",
+        "description": "Bold in form and rich in heritage, the VEGA Chair is a refined statement of Scandinavian design. With its gently sloped seat and clean architectural lines, it offers both visual lightness and exceptional support — perfect for everyday use or curated interior spaces."
+    },
+    {
+        "id": 3,
+        "name": "💼BUFFED CHAIR",
+        "price": 390,
+        "image": "img/3.png",
+        "description": "Where refined aesthetics meet everyday comfort — the BUFFED Chair is crafted to elevate any living or working space. Featuring a bold yet graceful silhouette, this chair blends mid-century charm with modern sensibilitie."
+    },
+    {
+        "id": 4,
+        "name": "🎀RIBBON CHAIR",
+        "price": 599,
+        "image": "img/4.png",
+        "description": "Graceful curves meet bold craftsmanship in the RIBBON Chair — a seating masterpiece that lives up to its name. Its flowing design mimics the gentle twist of a ribbon, creating a sculptural silhouette that adds artistic flair to any interior."
+    },
+    {
+        "id": 5,
+        "name": "🛋️MOOOI ZIO CHAIR",
+        "price": 300.99,
+        "image": "img/5.png",
+        "description": "Charming and charismatic, the MOOOI ZIO Chair blends playful elegance with solid craftsmanship. With its welcoming proportions and minimalist profile, it brings a touch of modern coziness to both casual corners and sophisticated spaces."
+    },
+    {
+        "id": 6,
+        "name": "🪑CARL HANSEN CHAIR",
+        "price": 450,
+        "image": "img/6.png",
+        "description": "A timeless tribute to Danish design heritage, the CARL HANSEN Chair embodies simplicity, strength, and style. With its clean lines and ergonomic design, it delivers exceptional comfort wrapped in minimalist elegance."
+    },
+    {
+        "id": 7,
+        "name": "🪑MOUSTACHE BOLD STOOL",
+        "price": 360.93,
+        "image": "img/7.png",
+        "description": "Unapologetically playful and confidently bold, the MOUSTACHE BOLD STOOL redefines modern minimalism with a twist. Its thick, tubular silhouette and smooth contours make it a functional statement piece that instantly sparks curiosity and conversation."
+    },
+    {
+        "id": 8,
+        "name": "🪑CARL HANSEN CHAIR",
+        "price": 238.88,
+        "image": "img/8.png",
+        "description": "Designed with a modern mindset and rooted in Danish tradition, the CARL HANSEN Chair delivers comfort, durability, and timeless appeal. Its smooth curves and minimalist structure make it a versatile addition to any interior—whether home, office, or gallery."
+    },
+    {
+        "id": 9,
+        "name": " 🏡BEDROOM CHAIR",
+        "price": 240,
+        "image": "img/9.png",
+        "description": "This iconic lounge chair, crafted by Carl Hansen & Søn, blends timeless design with modern elegance. Originally introduced in 1951, it remains a symbol of craftsmanship, available in oak or a stunning oak and walnut combination. The chair offers versatile upholstery options, including luxurious leather or custom fabric, making it the perfect addition to any bedroom."
+    },
+    {
+        "id": 10,
+        "name": "🪑LA CHAISE CHAIR",
+        "price": 720,
+        "image": "img/10.png",
+        "description": "The La Chaise Chair, a masterpiece by Charles and Ray Eames, brings an organic, sculptural form to your living space. Available in a range of finishes, including premium wood and sleek metal options, this chair combines modern design with ergonomic comfort for an unforgettable experience."
+    },
+    {
+        "id": 11,
+        "name": " 😊HAPPY CHAIR",
+        "price": 999,
+        "image": "img/11.png",
+        "description": "The Happy Chair, designed to brighten up any room, offers exceptional comfort and vibrant style. Made from high-quality materials, its playful, modern design ensures it stands out while providing lasting comfort with a choice of luxurious upholstery."
+    },
+    {
+        "id": 12,
+        "name": "🔨HANS WEGNER",
+        "price": 2500,
+        "image": "img/12.png",
+        "description": "Crafted with precision by Carl Hansen & Søn, the Hans Wegner Chair embodies timeless Danish design. Known for its exquisite craftsmanship and elegant silhouette, it’s made from sustainably sourced oak and walnut, offering unparalleled comfort and style in any setting."
+    },
+    {
+        "id": 13,
+        "name": " 💺PENNY CHAIR",
+        "price": 1599,
+        "image": "img/13.png",
+        "description": "The Penny Chair, a sleek and modern creation, brings a touch of sophistication to any room. With its ergonomic design and high-end materials, this chair offers both comfort and style, available in a variety of luxurious upholstery options."
+    },
+    {
+        "id": 14,
+        "name": " 🍹BAR STOOL",
+        "price": 698,
+        "image": "img/14.png",
+        "description": "This Bar Stool, crafted with attention to detail, blends functionality with modern design. Constructed from sustainable oak and walnut, it’s perfect for a contemporary kitchen or bar area. The seat comes in a variety of finishes, from leather to fabric, ensuring a perfect match for your space."
+    },
+    {
+        "id": 15,
+        "name": " 🌴 POLTRONA KAUAI CHAIR",
+        "price": 799,
+        "image": "img/15.png",
+        "description": "The Poltrona Kauai Chair combines plush comfort with contemporary style. Designed with luxurious materials, including sustainable wood and rich upholstery options, this chair offers a relaxing experience, whether in your living room or as an accent piece."
+    },
+    {
+        "id": 16,
+        "name": "  💛YELLOW CHAIR",
+        "price": 689,
+        "image": "img/16.png",
+        "description": "A burst of color and style, the Yellow Chair is a statement piece that adds vibrancy to any room. Designed for comfort and crafted with high-quality materials, it features a durable frame and plush seating, available in custom upholstery choices for a personalized touch."
+    }
+]
